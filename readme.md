@@ -1,4 +1,4 @@
-# AlgoCamp Javascript Project
+# ⭐AlgoCamp Javascript Project
 
 This repository contains various projects of Javascript, I build for learning JS.
 
