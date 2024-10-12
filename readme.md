@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# AlgoCamp Javascript Project 🚀
-=======
-# ⭐AlgoCamp Javascript Project
->>>>>>> 13a7905ec4dfa3bf198f320eddfa6c5891805cf3
 
+# AlgoCamp Javascript Project 🚀
 This repository contains various projects of HTML, CSS, JAVASCRIPT.
 ## Projects 👨‍💻
 * [bg-changer](https://github.com/himanshuramteke/AlgoCamp-JS-Projects/tree/main/bg-changer)
