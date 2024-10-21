@@ -1,6 +1,6 @@
 # AlgoCamp Javascript Project 🚀
-
 This repository contains various projects of HTML, CSS, JAVASCRIPT.
+
 ## Projects 👨‍💻
 * [bg-changer](https://github.com/himanshuramteke/AlgoCamp-JS-Projects/tree/main/bg-changer)
 * [bmi-calculator](https://github.com/himanshuramteke/AlgoCamp-JS-Projects/tree/main/bmi-calculator)
