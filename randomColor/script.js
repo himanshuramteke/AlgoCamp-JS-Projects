@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     document.getElementById('start').addEventListener('click', startChangingColor);
     document.getElementById('stop').addEventListener('click', stopChangingColor);
+    document.getElementById('reset').addEventListener('click', resetColor);
     
     let intervalId;
 
@@ -28,5 +29,9 @@ document.addEventListener('DOMContentLoaded', () => {
       clearInterval(intervalId);
       intervalId = null;  
     };
+
+    function resetColor() {
+        document.body.style.backgroundColor = "";
+    }
 
 })
